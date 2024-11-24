@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/MyMvcApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/2163b818-54af-4996-9e6e-76b7c6c49de2.jpeg",
+      "PackagePath": "staticwebassets/images/product/2163b818-54af-4996-9e6e-76b7c6c49de2.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/26e5813a-9e34-4758-8194-873b87734026.pdf",
+      "PackagePath": "staticwebassets/images/product/26e5813a-9e34-4758-8194-873b87734026.pdf"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/2e70e4ca-177a-4da3-b65b-ecc6925d0ec2.jpeg",
+      "PackagePath": "staticwebassets/images/product/2e70e4ca-177a-4da3-b65b-ecc6925d0ec2.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/4073dad5-941e-4439-9068-859ee83107ff.jpeg.jpeg",
+      "PackagePath": "staticwebassets/images/product/4073dad5-941e-4439-9068-859ee83107ff.jpeg.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/5ec9451c-c255-4bd7-8bae-f6e2553f8683.jpeg",
+      "PackagePath": "staticwebassets/images/product/5ec9451c-c255-4bd7-8bae-f6e2553f8683.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/71d95717-ba56-4142-874d-a4a1d22cc377.jpeg",
+      "PackagePath": "staticwebassets/images/product/71d95717-ba56-4142-874d-a4a1d22cc377.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/8eb25948-4618-4ed7-ae66-f6c27036d476.jpeg",
+      "PackagePath": "staticwebassets/images/product/8eb25948-4618-4ed7-ae66-f6c27036d476.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/9b3a0951-3257-4a32-ac4a-1047ffe8f69d.jpeg",
+      "PackagePath": "staticwebassets/images/product/9b3a0951-3257-4a32-ac4a-1047ffe8f69d.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/a9afbe39-eb79-4a84-96c4-de5b0f325d35.jpeg",
+      "PackagePath": "staticwebassets/images/product/a9afbe39-eb79-4a84-96c4-de5b0f325d35.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/be16dfd7-a6ae-4312-b74b-2e05cc41b52f.jpeg",
+      "PackagePath": "staticwebassets/images/product/be16dfd7-a6ae-4312-b74b-2e05cc41b52f.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/ca587697-f97f-4a0e-8f7c-639509ec38c3.jpeg",
+      "PackagePath": "staticwebassets/images/product/ca587697-f97f-4a0e-8f7c-639509ec38c3.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/d3e7271a-d469-4563-8bd8-6a9cf004a2ed.jpeg",
+      "PackagePath": "staticwebassets/images/product/d3e7271a-d469-4563-8bd8-6a9cf004a2ed.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/d80b2037-04e8-4da4-ae2b-79d8241cc72a.jpeg",
+      "PackagePath": "staticwebassets/images/product/d80b2037-04e8-4da4-ae2b-79d8241cc72a.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/d8ec1f21-bdad-45b9-81e7-4914bca22b98.pdf",
+      "PackagePath": "staticwebassets/images/product/d8ec1f21-bdad-45b9-81e7-4914bca22b98.pdf"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/d961c65e-8bc3-4c84-a698-6d1d79440efa.jpeg",
+      "PackagePath": "staticwebassets/images/product/d961c65e-8bc3-4c84-a698-6d1d79440efa.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/df59fbb3-65e6-489b-988d-8a0d0f05e721.jpeg",
+      "PackagePath": "staticwebassets/images/product/df59fbb3-65e6-489b-988d-8a0d0f05e721.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/images/product/ee083d3a-2c8e-4739-b209-b01dbc155fc8.jpeg",
+      "PackagePath": "staticwebassets/images/product/ee083d3a-2c8e-4739-b209-b01dbc155fc8.jpeg"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sathiyapriya.t/practice/DotNETPractice/MyMvcApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props",
+      "PackagePath": "build\\MyMvcApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props",
+      "PackagePath": "buildMultiTargeting\\MyMvcApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props",
+      "PackagePath": "buildTransitive\\MyMvcApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.deps.json
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.runtimeconfig.json
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.dll
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.dll
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.AssemblyReference.cache
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfoInputs.cache
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfo.cs
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.CoreCompileInputs.cache
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.Da.6DBD1FC4.Up2Date
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.dll
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/refint/Bulky.DataAccess.dll
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.genruntimeconfig.cache
+/Users/sathiyapriya.t/practice/DotNETPractice/Bulky.DataAccess/obj/Debug/net8.0/ref/Bulky.DataAccess.dll
